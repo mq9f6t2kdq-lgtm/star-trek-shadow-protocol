@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Star Trek: Shadow Protocol</title>
+    <link>https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/</link>
+    <description><![CDATA[A Star Trek fan audio drama in twenty episodes. Season 1: The Long Silence. In 2411 a buried Starfleet black-ops directive resurfaces as colonies vanish without a trace. Season 2: The Hollow War. The machine intelligence behind the disappearances turns its hunger toward the Federation itself.]]></description>
+    <language>en-us</language>
+    <itunes:author>Shadow Protocol</itunes:author>
+    <itunes:summary><![CDATA[A Star Trek fan audio drama in twenty episodes. Season 1: The Long Silence. In 2411 a buried Starfleet black-ops directive resurfaces as colonies vanish without a trace. Season 2: The Hollow War. The machine intelligence behind the disappearances turns its hunger toward the Federation itself.]]></itunes:summary>
+    <itunes:image href="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/cover.jpg"/>
+    <itunes:category text="Fiction">
+      <itunes:category text="Science Fiction"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <item>
+      <title>S1E1: Gone Dark</title>
+      <description><![CDATA[The New Halcyon colony vanishes mid-distress-call. Disgraced intel officer Kira Voss is pulled from the archives as Admiral Hale reactivates a buried directive, and the USS Vigilant finds a barren plain where a city stood.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s01e01-gone-dark.mp3" length="14712625" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s01e01-gone-dark</guid>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>S1E2: Port Verity</title>
+      <description><![CDATA[A second colony, the same impossible absence, but this time a survivor: a child hidden in a storm cellar who saw gray men fly Starfleet ships. First proof the takers wore the uniform.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s01e02-port-verity.mp3" length="14712625" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s01e02-port-verity</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>S1E3: Paper Trails</title>
+      <description><![CDATA[Voss digs into sealed archives and finds the Archanis file locked under Hale's personal seal. An airlock accident aboard Starbase 41 nearly kills her. Someone is protecting the secret lethally.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s01e03-paper-trails.mp3" length="14712625" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s01e03-paper-trails</guid>
+      <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>S1E4: The Archanis Incident</title>
+      <description><![CDATA[Twelve years ago, a young Lieutenant Voss found Archanis IV erased, reported it up the chain, and watched her career die in a closed hearing. In the present, she finally tells Captain Marsh everything.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s01e04-archanis-incident.mp3" length="14712625" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s01e04-archanis-incident</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>S1E5: Sanctuary</title>
+      <description><![CDATA[Long-range recon finds transponder ghosts, then the world itself: domed cities under guard. The dead colonists are alive. Shadow Protocol does not kill populations; it relocates them.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s01e05-sanctuary.mp3" length="14712625" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s01e05-sanctuary</guid>
+      <pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>S1E6: The Hollow</title>
+      <description><![CDATA[Decoding a thirty-year-old deep-space listening post, the crew finally sees the threat: a machine intelligence from beyond the rim that harvests whole star systems. Starfleet has known for decades.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s01e06-the-hollow.mp3" length="14712625" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s01e06-the-hollow</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>S1E7: Orders Are Orders</title>
+      <description><![CDATA[Starfleet Command orders the Vigilant home and Voss into custody. Captain Marsh refuses, open defiance, as the USS Tamerlane arrives to enforce the recall.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s01e07-orders-are-orders.mp3" length="14706146" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s01e07-orders-are-orders</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:30:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>S1E8: The Fourth Colony</title>
+      <description><![CDATA[They watch it happen live: the Hollow's vanguard reaches Keita Prime and four hundred thousand people go dark like a switched-off light. The Vigilant dives in for a desperate evacuation.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s01e08-fourth-colony.mp3" length="14712625" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s01e08-fourth-colony</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>S1E9: The List</title>
+      <description><![CDATA[Voss cracks the full Shadow Protocol relocation list: dozens of worlds slated next, and Earth's name in a contingency annex. Someone is not just hiding people. Someone is deciding who deserves to live.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s01e09-the-list.mp3" length="14712625" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s01e09-the-list</guid>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>S1E10: The Long Silence</title>
+      <description><![CDATA[The Hollow turns toward the sanctuary sector. Hale orders silence; Marsh warns them anyway. In the final minutes, every Starfleet long-range relay goes dark, one by one.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s01e10-the-long-silence.mp3" length="14889421" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s01e10-the-long-silence</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:31:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title>S2E1: The Dark Between Stars</title>
+      <description><![CDATA[The morning after. Six relays dead, no Starfleet, no orders. Marsh makes the call that defines the season: break silence and warn the sanctuary sector, burning the secret to save the people.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s02e01-the-dark-between-stars.mp3" length="14779080" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s02e01-the-dark-between-stars</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:30:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>S2E2: Meridian</title>
+      <description><![CDATA[The first sanctuary world: domed cities, guarded skies, and Hale's wife and daughter, alive. Administrator Ward resists evacuation as Hollow scouts enter the system.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s02e02-meridian.mp3" length="14562368" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s02e02-meridian</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>S2E3: The Tamerlane</title>
+      <description><![CDATA[Captain Rook and the Tamerlane find the Vigilant with what is left of Starfleet's response. Voss testifies before a war council: vindication, twelve years late.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s02e03-the-tamerlane.mp3" length="14768631" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s02e03-the-tamerlane</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:30:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>S2E4: Erebus</title>
+      <description><![CDATA[Back at Listening Post Erebus, Voss and Analyst Reeves decode the deepest layer of thirty years of data and find the Hollow's origin, and its rigid harvest cycle. Then we can poison it.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s02e04-erebus.mp3" length="14688592" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s02e04-erebus</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>S2E5: The Masked Voice</title>
+      <description><![CDATA[Voss hunts the masked authorization voice from Season 1 through dead channels and erased logs to a living room: Director Amara Cross, who calmly explains her arithmetic.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s02e05-the-masked-voice.mp3" length="14704684" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s02e05-the-masked-voice</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:30:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>S2E6: Forty-Three</title>
+      <description><![CDATA[The Hollow takes its forty-third star. The Vigilant and Tamerlane attempt the first real defense and learn what no weapon works means.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s02e06-forty-three.mp3" length="14353389" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s02e06-forty-three</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:29:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>S2E7: The Signal</title>
+      <description><![CDATA[Voss's plan: feed the Hollow's harvest cycle a poisoned signal. It works, the first victory in thirty years. But the Hollow paused before it died. Like it noticed them.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s02e07-the-signal.mp3" length="14695488" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s02e07-the-signal</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:30:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>S2E8: Sanctuary&#x27;s Choice</title>
+      <description><![CDATA[The relocated colonies learn everything and vote: they will not be cargo again. A sanctuary fleet of civilian ships, armed with whatever they have, joins the war.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s02e08-sanctuarys-choice.mp3" length="14726626" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s02e08-sanctuarys-choice</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>S2E9: The Hollow War</title>
+      <description><![CDATA[Starfleet's remnants and the sanctuary fleet face the Hollow's main harvester. Hale takes the only ship that can get close enough: a one-way run into the stillness.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s02e09-the-hollow-war.mp3" length="14829026" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s02e09-the-hollow-war</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:30:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>S2E10: What Remains</title>
+      <description><![CDATA[The cost, counted honestly. The relocated worlds choose their future. And a rebuilt listening post picks up a new signal, something older, from beyond the rim, answering.]]></description>
+      <enclosure url="https://mq9f6t2kdq-lgtm.github.io/star-trek-shadow-protocol/episodes/s02e10-what-remains.mp3" length="14786604" type="audio/mpeg"/>
+      <guid isPermaLink="false">shadow-protocol-s02e10-what-remains</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>10</itunes:episode>
+    </item>
+  </channel>
+</rss>
